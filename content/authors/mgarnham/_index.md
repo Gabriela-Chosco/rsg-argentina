@@ -16,7 +16,7 @@ role = "Treasurer"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)", url = "http://www.conicet.gob.ar" }, {name="Universidad de San Martín", url="http://www.unsam.edu.ar"}, {name="Trypanosomatics Laboratory", url="https://www.trypanosomatics.org/"} ]
+organizations = [ { name = "Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)", url = "http://www.conicet.gov.ar" }, {name="Universidad de San Martín", url="http://www.unsam.edu.ar"}, {name="Trypanosomatics Laboratory", url="https://www.trypanosomatics.org/"} ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
